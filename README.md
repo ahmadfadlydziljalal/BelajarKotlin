@@ -1,6 +1,7 @@
 Module Belajar Kotlin
 
 1. Dasar
+    => Kotlin Dasar, e.g: array, function , label dsb
 2. Advance
 
 Sumber
